@@ -1,4 +1,4 @@
-const express = require('../auto/node_modules/express/index')
+const express = require('express')
 const App = express()
 const http = require('http')
 const { Server } = require('socket.io')
