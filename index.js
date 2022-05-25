@@ -79,6 +79,6 @@ io.on('connection', (socket) => {
     }, 3000);
 })
 
-server.listen(3100, () => {
+server.listen(4100, () => {
     console.log('run server');
 })
